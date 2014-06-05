@@ -4,4 +4,5 @@ lein: lein2
 
 script: lein test
 
+
 jdk: openjdk7
