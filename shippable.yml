@@ -5,4 +5,4 @@ lein: lein2
 script: lein test
 
 
-jdk: openjdk6
+jdk: openjdk7
