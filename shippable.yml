@@ -11,5 +11,5 @@ jdk: openjdk7
 build_image: shippable/minv2
 
 
-cache: true
-#reset_minion
+#cache: true
+#reset_minion1
