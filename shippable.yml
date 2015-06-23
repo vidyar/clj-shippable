@@ -7,7 +7,6 @@ script: lein test
 
 jdk: openjdk7
 
-
 build_image: shippable/minv2
 
 
